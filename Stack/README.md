@@ -3,3 +3,5 @@
 ### [leetcode.394 Decode String](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Decode%20String.py) 
 
 ### [leetcode.735 Asteroid Collision](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Asteroid%20Collision.py) 
+
+### [leetcode.739 Daily Temperatures](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Daily%20Temperatures.py) 
