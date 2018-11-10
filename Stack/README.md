@@ -7,3 +7,5 @@
 ### [leetcode.739 Daily Temperatures](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Daily%20Temperatures.py) 
 
 ### [leetcode.853 Car Fleet](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Car%20Fleet.py) 
+
+### [leetcode.880 Decode String at Index](https://github.com/lulukdog/leetcode-Python/blob/master/Stack/Decode%20String%20at%20Index.py) 
