@@ -48,7 +48,7 @@ class Solution(object):
             if i>=1 and t>=stack[i-1][1]:
                 t %= stack[i-1][1] + len(stack[i][0])
                 if t>len(stack[i][0]):
-                    return stack[i][0][t-stack[i][1]-1]
+                    return stack[i][0][t-stack[i-1][1]-1]
                     continue
                 else:
                     if not stack[i][0]:
@@ -56,14 +56,14 @@ class Solution(object):
                     else:
                         return stack[i][0][t]
             else:
-                print(stack[i][0][t-1])
+                # print(stack[i][0][t-1])
                 return stack[i][0][t-1]
 
 
 
 if __name__ == '__main__':
     s = Solution()
-    print(s.decodeAtIndex("leet2code3", 10))
+    print(s.decodeAtIndex("ha22", 5))
 
 
 
