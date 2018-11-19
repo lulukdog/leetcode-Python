@@ -5,3 +5,5 @@
 ### [leetcode.378 Kth Smallest Element in A Sorted Matrix](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Kth%20Smallest%20Element%20in%20A%20Sorted%20Matrix.py)
 
 ### [leetcode.692 Top K Frequent Words](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Top%20K%20Frequent%20Words.py)
+
+### [leetcode.743 Network Delay Time](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Network%20Delay%20Time.py)
