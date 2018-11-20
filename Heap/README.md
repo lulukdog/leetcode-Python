@@ -7,3 +7,5 @@
 ### [leetcode.692 Top K Frequent Words](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Top%20K%20Frequent%20Words.py)
 
 ### [leetcode.743 Network Delay Time](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Network%20Delay%20Time.py)
+
+### [leetcode.264 Ugly Number II](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Ugly%20Number%20II.py)
