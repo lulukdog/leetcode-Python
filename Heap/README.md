@@ -11,3 +11,5 @@
 ### [leetcode.264 Ugly Number II](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Ugly%20Number%20II.py)
 
 ### [leetcode.659 Split Array into Consecutive Subsequences](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Split%20Array%20into%20Consecutive%20Subsequences.py)
+
+### [leetcode.373 Find K Pairs with Smallest Sums](https://github.com/lulukdog/leetcode-Python/blob/master/Heap/Find%20K%20Pairs%20with%20Smallest%20Sums.py)
