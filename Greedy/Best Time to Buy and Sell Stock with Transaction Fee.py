@@ -10,17 +10,13 @@ class Solution(object):
         :type fee: int
         :rtype: int
         """
-        # start = 0
-        # res = 0
-        # for i in xrange(len(prices)):
-        # 	if prices[i]<prices[start]:
-        # 		start = i
-
-        # 	if prices[i]-prices[start]>fee:
-        # 		res += prices[i] - prices[start] - fee
-        # 		start = i+1
-
-        # return res
+        
+        '''
+        对于第i天的最大收益，应分成两种情况，一是该天结束后手里没有stock，
+        可能是保持前一天的状态也可能是今天卖出了，此时令收益为cash；
+        二是该天结束后手中有一个stock，可能是保持前一天的状态，也可能是今天买入了，用hold表示。
+        由于第i天的情况只和i-1天有关，所以用两个变量cash和hold就可以，不需要用数组
+        '''
 
         cash=0
         hold=-prices[0]
