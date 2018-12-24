@@ -12,3 +12,5 @@
 
 ### [452. Minimum Number of Arrows to Burst Balloons](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)
 
+### [649. Dota2 Senate](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Dota2%20Senate.py)
+
