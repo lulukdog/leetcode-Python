@@ -14,3 +14,5 @@
 
 ### [649. Dota2 Senate](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Dota2%20Senate.py)
 
+### [621. Task Scheduler](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Task%20Scheduler.py)
+
