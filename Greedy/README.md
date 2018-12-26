@@ -16,3 +16,5 @@
 
 ### [621. Task Scheduler](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Task%20Scheduler.py)
 
+### [881. Boats to Save People](https://github.com/lulukdog/leetcode-Python/blob/master/Greedy/Boats%20to%20Save%20People.py)
+
