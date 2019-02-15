@@ -3,3 +3,5 @@
 ### [477. Total Hamming Distance](https://github.com/lulukdog/leetcode-Python/blob/master/Byte/Total%20Hamming%20Distance.py)
 
 ### [338. Counting Bits](https://github.com/lulukdog/leetcode-Python/blob/master/Byte/Counting%20Bits.py)
+
+### [137. Single Number II](https://github.com/lulukdog/leetcode-Python/blob/master/Byte/Single%20Number%20II.py)
