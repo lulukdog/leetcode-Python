@@ -6,3 +6,5 @@
 
 ### [No Idea](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/No%20Idea.py)
 
+### [Compress the String](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Compress%20the%20String.py)
+
