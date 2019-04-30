@@ -8,3 +8,5 @@
 
 ### [Compress the String](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Compress%20the%20String.py)
 
+### [Iterables and Iterators](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Iterables%20and%20Iterators.py)
+
