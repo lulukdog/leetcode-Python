@@ -13,3 +13,5 @@
 ### [Word Order](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Word%20Order.py)
 
 ### [Company Logo](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Company%20Logo.py)
+
+### [Piling Up](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Piling Up.py)
