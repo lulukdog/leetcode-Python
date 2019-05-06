@@ -15,3 +15,5 @@
 ### [Company Logo](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Company%20Logo.py)
 
 ### [Piling Up](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Piling%20Up.py)
+
+### [ginortS](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/ginortS.py)
