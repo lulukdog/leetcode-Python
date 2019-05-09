@@ -17,3 +17,5 @@
 ### [Piling Up](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Piling%20Up.py)
 
 ### [ginortS](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/ginortS.py)
+
+### [Triangle Quest2](https://github.com/lulukdog/leetcode-Python/blob/master/hackerrank/Triangle%20Quest2.py)
